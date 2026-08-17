@@ -59,14 +59,9 @@ const SKILLS = [
 
 const WIP = [
   {
-    title: "Foundry",
+    title: "HeightPanel",
     description:
-      "Redesigning our internal design-system docs from the ground up.",
-  },
-  {
-    title: "PulseCheck",
-    description:
-      "Customizing a poorly designed status-page template to look fresh and modern.",
+      "Redesigning HeightNodes' Game Panel from the ground up.",
   },
 ];
 
